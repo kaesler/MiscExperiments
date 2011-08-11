@@ -1,0 +1,6 @@
+.,
+*~
+bin
+.manager
+.scala_dependencies
+semantic.cache
